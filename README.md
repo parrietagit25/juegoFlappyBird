@@ -1,4 +1,4 @@
 # juegoFlappyBird
-html5
-Javascript
-Canvas
+- html5,
+- Javascript,
+- Canvas
